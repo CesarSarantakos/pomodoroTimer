@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 6rem;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.buttons button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
